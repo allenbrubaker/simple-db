@@ -1,0 +1,92 @@
+[11/29/2009 2:02 PM]	allen: Deleted
+[11/29/2009 2:26 PM]	newtable: Deleted
+[11/29/2009 2:28 PM]	mark: Created
+[11/29/2009 2:28 PM]	mark: Deleted
+[11/29/2009 2:28 PM]	mark: Created
+[11/29/2009 2:29 PM]	mark: Inserted 5 rows
+[11/29/2009 2:30 PM]	mark: Deleted
+[11/29/2009 2:43 PM]	mark: Created
+[11/29/2009 2:44 PM]	mark: Inserted 6 rows
+[11/29/2009 2:44 PM]	mark: Inserted 6 rows
+[11/29/2009 2:44 PM]	mark: Inserted 6 rows
+[11/29/2009 2:44 PM]	mark: Inserted 6 rows
+[11/29/2009 2:44 PM]	mark: Inserted 6 rows
+[11/29/2009 2:44 PM]	mark: Inserted 6 rows
+[11/29/2009 2:44 PM]	mark: Inserted 6 rows
+[11/30/2009 8:11 PM]	person: Inserted 10 rows
+[11/30/2009 8:47 PM]	ImportTest: Created
+[11/30/2009 8:50 PM]	ImportTest: Deleted
+[11/30/2009 8:53 PM]	ImportTest: Created
+[11/30/2009 8:55 PM]	ImportTest: Deleted
+[11/30/2009 8:58 PM]	ImportTest: Created
+[11/30/2009 8:58 PM]	ImportTest: Inserted 3239 rows
+[11/30/2009 10:03 PM]	ImportTest: Deleted
+[11/30/2009 10:04 PM]	importtest: Created
+[11/30/2009 10:04 PM]	importtest: Inserted 3239 rows
+[12/10/2009 4:55 PM]	newperson: New temporarily table (17 rows)
+[12/10/2009 7:57 PM]	food: Created
+[12/10/2009 7:59 PM]	food: Inserted 4 rows
+[12/10/2009 8:14 PM]	newperson: New temporarily table (17 rows)
+[12/16/2009 11:56 AM]	join0: Created
+[12/16/2009 11:56 AM]	join0: Inserted 9 rows
+[12/16/2009 12:22 PM]	join00: Created
+[12/16/2009 12:22 PM]	join00: Inserted 7 rows
+[12/16/2009 12:23 PM]	join00: Deleted
+[12/16/2009 12:24 PM]	join00: Created
+[12/16/2009 12:24 PM]	join00: Inserted 7 rows
+[12/16/2009 12:36 PM]	join00: Deleted
+[12/16/2009 12:36 PM]	join00: Created
+[12/16/2009 12:36 PM]	join00: Inserted 7 rows
+[12/16/2009 12:40 PM]	join00: Deleted
+[12/16/2009 12:40 PM]	join00: Created
+[12/16/2009 12:40 PM]	join00: Inserted 7 rows
+[12/16/2009 12:42 PM]	join00: Deleted
+[12/16/2009 12:42 PM]	join00: Created
+[12/16/2009 12:42 PM]	join00: Inserted 7 rows
+[12/16/2009 12:53 PM]	person: Deleted 1 rows
+[12/16/2009 12:55 PM]	person: Inserted 1 rows
+[12/16/2009 12:55 PM]	person: Deleted 1 rows
+[12/16/2009 12:55 PM]	join00: Deleted
+[12/16/2009 12:56 PM]	join00: Created
+[12/16/2009 12:56 PM]	join00: Inserted 7 rows
+[12/16/2009 1:03 PM]	ImportTester: Created
+[12/16/2009 1:03 PM]	ImportTester: Inserted 3239 rows
+[12/16/2009 1:05 PM]	join00: Deleted
+[12/16/2009 1:09 PM]	ImportTester: Deleted
+[12/16/2009 1:09 PM]	importtest: Deleted
+[12/16/2009 1:22 PM]	ordertest2: Created
+[12/16/2009 1:24 PM]	ordertest2: Inserted 78 rows
+[12/16/2009 2:38 PM]	join00: Created
+[12/16/2009 2:38 PM]	join00: Inserted 5 rows
+[12/16/2009 2:38 PM]	join00: Deleted 5 rows
+[12/16/2009 2:41 PM]	person: Deleted 6 rows
+[12/16/2009 2:51 PM]	importtest: Created
+[12/16/2009 2:51 PM]	importtest: Inserted 3239 rows
+[12/16/2009 2:58 PM]	vote: Created
+[12/16/2009 2:58 PM]	vote1: Created
+[12/16/2009 3:00 PM]	vote2: Created
+[12/16/2009 3:00 PM]	vote2: Inserted 352 rows
+[12/16/2009 3:00 PM]	vote3: Created
+[12/16/2009 3:00 PM]	vote4: Created
+[12/16/2009 3:00 PM]	vote4: Inserted 352 rows
+[12/16/2009 3:02 PM]	vote5: Created
+[12/16/2009 3:02 PM]	vote5: Inserted 352 rows
+[12/16/2009 3:03 PM]	vote6: Created
+[12/16/2009 3:03 PM]	vote7: Created
+[12/16/2009 3:04 PM]	vote8: Created
+[12/16/2009 3:04 PM]	vote9: Created
+[12/16/2009 3:06 PM]	vote10: Created
+[12/16/2009 4:41 PM]	person: Inserted 1 rows
+[12/16/2009 6:30 PM]	vote: Deleted
+[12/16/2009 6:30 PM]	vote1: Deleted
+[12/16/2009 6:30 PM]	vote2: Deleted
+[12/16/2009 6:30 PM]	vote3: Deleted
+[12/16/2009 6:30 PM]	vote4: Deleted
+[12/16/2009 6:30 PM]	vote5: Deleted
+[12/16/2009 6:30 PM]	vote6: Deleted
+[12/16/2009 6:30 PM]	vote7: Deleted
+[12/16/2009 6:30 PM]	vote8: Deleted
+[12/16/2009 6:30 PM]	vote9: Deleted
+[12/16/2009 6:30 PM]	vote10: Deleted
+[12/16/2009 6:30 PM]	importtest: Deleted
+[12/16/2009 6:30 PM]	join00: Deleted

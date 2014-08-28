@@ -1,0 +1,22 @@
+﻿<Window
+	x:Class="XQuery.GUI.ResultsWindow"
+	xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:Custom="http://schemas.microsoft.com/wpf/2008/toolkit"
+    Title="Results" Icon="Images/Excel.png" mc:Ignorable="d" Width="360" Height="302" d:DesignWidth="360" d:DesignHeight="302">
+
+ 
+    
+	<Grid HorizontalAlignment="Left">
+		<Image Source="Images/Africa.jpg" OpacityMask="Black" Stretch="Fill" d:LayoutOverrides="Width, Height"/>
+		<Grid Margin="15">
+			<Grid.RowDefinitions>
+				<RowDefinition />
+			</Grid.RowDefinitions>
+
+                <Custom:DataGrid x:Name="gridResult"  FontFamily="Fonts/#Calibri" FontSize="14.667" Background="{x:Null}" BorderBrush="{x:Null}" RowBackground="#65FFFFFF" HorizontalGridLinesBrush="{x:Null}" VerticalGridLinesBrush="{x:Null}" CanUserResizeRows="False" HeadersVisibility="Column" IsReadOnly="True" BorderThickness="0" />
+                
+		</Grid>
+	</Grid>
+
+</Window>

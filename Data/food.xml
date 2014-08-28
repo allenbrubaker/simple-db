@@ -1,0 +1,22 @@
+<food>
+  <Row>
+    <name>pumpkin pie</name>
+    <price>12.35</price>
+    <calories>999</calories>
+  </Row>
+  <Row>
+    <name>moon pie</name>
+    <price>23.5</price>
+    <calories>2344</calories>
+  </Row>
+  <Row>
+    <name>apples</name>
+    <price>0.25</price>
+    <calories>40</calories>
+  </Row>
+  <Row>
+    <name>banana</name>
+    <price>3.4</price>
+    <calories>43</calories>
+  </Row>
+</food>

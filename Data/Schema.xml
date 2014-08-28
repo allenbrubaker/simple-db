@@ -1,0 +1,44 @@
+<Schema>
+  <Join1>
+    <Key Type="System.Int32" />
+  </Join1>
+  <join2>
+    <key Type="System.String" />
+    <NaMe Type="System.String" />
+  </join2>
+  <SortTest>
+    <col1 Type="System.Int32" />
+    <col2 Type="System.Int32" />
+    <col3 Type="System.Int32" />
+    <col4 Type="System.Int32" />
+  </SortTest>
+  <person>
+    <name Type="System.String" />
+    <age Type="System.Int32" />
+    <height Type="System.Single" />
+    <birth Type="System.DateTime" />
+  </person>
+  <mark>
+    <col1 Type="System.String" />
+    <col2 Type="System.String" />
+  </mark>
+  <food>
+    <name Type="System.String" />
+    <price Type="System.Single" />
+    <calories Type="System.Int32" />
+  </food>
+  <join0>
+    <name Type="System.String" />
+    <key Type="System.Int32" />
+  </join0>
+  <ordertest2>
+    <col1 Type="System.Int32" />
+    <col2 Type="System.Int32" />
+    <col3 Type="System.Int32" />
+    <col4 Type="System.Int32" />
+    <col5 Type="System.Int32" />
+    <col6 Type="System.Char" />
+    <col7 Type="System.String" />
+    <col8 Type="System.DateTime" />
+  </ordertest2>
+</Schema>
