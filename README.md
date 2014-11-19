@@ -1,4 +1,4 @@
-Simple-db
+Designing and Querying a simple Relational Database
 =========
 
 **Abstract**
