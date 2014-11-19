@@ -1,4 +1,4 @@
-Designing and Querying a simple Relational Database
+Designing and Querying a Simple Relational Database
 =========
 
 **Abstract**
